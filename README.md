@@ -31,3 +31,10 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 MIT License
+## Project Status
+
+🚧 This project is under active development. Contributions, suggestions, and bug reports are welcome.
+
+## Contact
+
+If you'd like to contribute or collaborate, please open an Issue or Pull Request.
